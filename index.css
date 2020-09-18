@@ -5,7 +5,7 @@ figure {
     /* padding: 5px; */
     max-width: 450px;
     max-height: 450px;
-    margin: auto;
+    margin: 0 !important;
 }
 
 img {
