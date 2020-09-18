@@ -1,0 +1,30 @@
+figure {
+    /* border: thin #c0c0c0 solid; */
+    display: flex;
+    flex-flow: column;
+    /* padding: 5px; */
+    max-width: 450px;
+    max-height: 450px;
+    margin: auto;
+}
+
+img {
+    max-width: 450px;
+    max-height: 450px;
+    padding: 0;
+}
+
+figcaption {
+    background-color: #222;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+h2{
+    margin-top: -60px;
+}
+#bordure{
+    border-left: 5px solid #fff;
+    border-right: 5px solid #fff;
+}
